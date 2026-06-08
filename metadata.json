@@ -1,0 +1,10 @@
+{
+  "name": "Audio Reverser",
+  "description": "An interactive tool to record audio, reverse the playback, and save reversed tracks locally.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
